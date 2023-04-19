@@ -1,0 +1,8 @@
+SUCCESS = 'success'
+FAILURE = 'failure'
+NO_TOKEN = 'no token'
+INVALID_TOKEN = 'invalid token'
+USER_NOT_FOUND = 'user not found'
+WRONG_PASSWORD = 'wrong password'
+SOMETHING_WENT_WRONG = 'something went wrong'
+ERROR_OCCURED = 'error occured'
